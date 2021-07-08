@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer
 model1 = pickle.load(open("level_1_rf_UU_model.pkl", 'rb'))
 model2 = pickle.load(open("level_2_rf_UU_model.pkl", 'rb'))
 model3 = pickle.load(open("level_3_rf_UU_model.pkl", 'rb'))
-print('Model loaded')
+print('Models loaded')
 
 def generate_embeddings(title, text):
     print('entering in ')
