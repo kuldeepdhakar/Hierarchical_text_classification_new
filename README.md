@@ -19,7 +19,7 @@ For model Testing : Run USE_USE/Model_testing_USE_USE
 I have also made a Flask API run USE_USE/Flask.py and then run api.py to hit the API.
 
 
-# (1) Replicating the results of experiment 3 (Combination of flat and Node based classifier (Best results))
+# (2) Replicating the results of experiment 3 (Combination of flat and Node based classifier[Best results])
 
 For model training: TF_TF_NODE_based/training.py'
 
